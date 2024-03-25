@@ -1,0 +1,6 @@
+baseURL = 'https://blog.curts.app/'
+languageCode = 'en-us'
+title = "Curt's Collection"
+theme = 'hugo-book'
+[markup.goldmark.renderer]
+  unsafe = true
