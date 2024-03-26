@@ -41,7 +41,7 @@ To help keep the immersive roleplay it is best to negotiation **influence** tran
 {{< /hint >}}
 
 ### Types of Influence tokens
-There are 4 types of influence tokens.
+There are 4 types of influence tokens
 
 - House Atreides - green
 - House Corrino - red
