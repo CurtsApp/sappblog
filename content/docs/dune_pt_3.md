@@ -35,7 +35,7 @@ You may also exchange **influence** for favors and actions that do not include t
 {{< hint info >}}
 **Example**
 
-After chatting with Chani, Shaddam IV learns that one of Chani's goals is to ensure that Princess Irulan ends the night destitute. Though Shaddam can not take Princess Irulan's **influence** away directly, he offers to lend Chani a battalion of Sardaukar in exchange for a shipment of Spice. Chani agrees to exchange one of her spice **influence** tokens for two of Shaddam IV's House Corrino **influence** tokens. Shaddam IV thinks this is a good deal because he knows Guild Navigator Edric is gathering as much spice as possible and Shaddam IV plans to use bribe Edric only allow House Corrino transactions. Chani thinks this is a good deal because her *secret* character information tells her that if she ends the night with more House Corrino **influence** than Princess Irulan then Chani can have Princess Irulan exiled.
+After chatting with Chani, Shaddam IV learns that one of Chani's goals is to ensure that Princess Irulan ends the night destitute. Though Shaddam can not take Princess Irulan's **influence** away directly, he offers to lend Chani a battalion of Sardaukar in exchange for a shipment of Spice. Chani agrees to exchange one of her spice **influence** tokens for two of Shaddam IV's House Corrino **influence** tokens. Shaddam IV thinks this is a good deal because he knows Guild Navigator Edric is gathering as much spice as possible and Shaddam IV plans to bribe Edric to decrease cost of House Corrino actions. Chani thinks this is a good deal because her *secret* character information tells her that if she ends the night with more House Corrino **influence** than Princess Irulan then Chani can have Princess Irulan exiled.
 
 To help keep the immersive roleplay it is best to negotiation **influence** transactions using in universe objects that your character would reasonably have access to. In this instance, Shaddam IV and Chani were bartering battalions of Sardukar and Spice even though the transaction is mechanically represented using **influence** tokens. Have fun with what your items/service you are offering while trying to keep them realistic to things your character has access to. Your *secret* character information will have some suggested bartering items.
 {{< /hint >}}
@@ -83,10 +83,10 @@ Daughter of Shaddam IV and Bene Gesserit initiate, princess Irulan pledged to ma
 ### Na'barron Glossu Rabban
 Glossu Rabban is the nephew to Barron Harkonnen, recently resurrected by the Bene Tleilax. After, living in his brother's shadow Glossu looks to seize a higher power.
 
-### Na'barron Fey-Rautha - Voting Member (House Harkonnen)
+### Na'barron Feyd-Rautha - Voting Member (House Harkonnen)
 After losing his duel to Paul, Fey-Rautha was ressurected by the Bene Tleilax. He now focuses his cruelty on surpssing what his uncle could never do, his sights are set on the golden lion throne.
 
-### Count Hasimir Fenring - Voting Member (House Fenring) 
+### Count Hasimir Fenring 
 Advisor and assassin for Shaddam IV, Hasimir Fenring attempted to kill Paul years ago. Was Paul's recent murder Hasimir's redemption?
 
 ### Lady Margot Fenring - Voting Member (House Fenring)
@@ -95,7 +95,7 @@ Wife of Hasimir Fenring and manager of House Fenring in Hasimir's absence. Lady 
 ### Mentat Duncan Idaho II - Voting Member (House Ginaz)
 The original Duncan Idaho, was military tactician and swordsmaster who served Duke Leto Atreides with unwavering loyalty to his death. Duncan Idaho II, however is a facsimile created by the Bene Tleilax, using Duncan Idaho's corpse recovered by the Sardakar on Arrakis. He represents, House Ginaz but struggles with residual memories of his previous life.
 
-### Lady Jessica - Voting Member (House Atreides)
+### Lady Jessica
 Jessica is a highly trained member of the Bene Gesserit sisterhood, possessing abilities such as heightened intuition, control over her own physiology, and limited precognition. She undergoes rigorous mental and physical conditioning as part of her training. Despite her official role as a concubine rather than a wife, Jessica deeply loves her son, Paul Atreides. Jessica faces internal conflicts between her loyalty to the Bene Gesserit sisterhood and her love for her family. 
 
 ### Gaius Helen Mohaiam   
