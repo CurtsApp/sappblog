@@ -64,48 +64,76 @@ It is not advisable to trigger an event just because you have the correct **infl
 ## Characters
 
 ### Paul Atreides
+![Paul Atreides](/imgs/paul.avif)
+
 Paul goes by many names. Usul, to the Fremen he is close to. Muad'Dib, to people shouting a battle cry. Lisan al-Gaib, to anyone who hope for something more. Atreides, to anyone from his past life. Emperor, to those who are ready for a new order. And Kwisatz Haderach, to the forces at play before his own birth. Though everyone is gathered today to attend Paul's coronation as the new self appointed Padisha emperor, he will never sit upon the golden lion throne as he has been killed.
 
 Paul is not a playable character but Paul's ghost will be played by your game master.
 
 ### Executor Chani
+![Chani](/imgs/chani.avif)
+
 Before Paul, Chani was a fierce Freman warrior and hunter. With Paul, she learned to have a softer touch. She is still all of those things, but now Chani has seen the corruption that follows the greed of man. Chani leads a sect of Freman who wish to embrace the old isolationist ways and leave the spacemen to slit each other's throats.
 
 ### Naib Stilgar
+![Naib Stilgar](/imgs/stilgar.jpg)
+
 Once a humble leader of a northern Freman tribe, Stilgar found himself tangled in Paul's ascension to Lisan al-Gaib, serving as his mentor. Stilgar would have traded his life for Paul's if given the opportunity but instead Stilagar is left to enact Paul's vision. The vision of an interconnection Freman, a people who have joined the intergalactic court as a people to be respected.
 
 ### Emperor Shaddam Corrino IV - Voting Member (House Corrino)
+![Shaddam Corrino IV](/imgs/shadam.avif)
+
 Shaddam IV decided that under Duke Leto's leadership House Atreides was becoming too powerful, enough to threaten the House Corriono claim of the golden lion throne. Shaddam IV's actions caused the instability of Arrakis and set in motion all of the events of Dune and him losing his throne even sooner. The recently deposed Padisha emperor narrowly held onto his life by bending the knee to Paul and Princess Irulan agreeing to marry Paul. As head of the Corrino house Shaddam IV commands fierce Sardaukar. 
 
 ### Princess Irulan Corrino, the chronicler
-Daughter of Shaddam IV and Bene Gesserit initiate, princess Irulan pledged to marry Paul in exchange for her father's life. She cares for her family but has learned of the sinister hands that guide the world's rotation during her Bene Gesserit training. She seeks to shine a light into the madness by documenting what happens when people think no one is watching.
+![Princess Irulan](/imgs/irulan.avif)
+
+Daughter of Shaddam IV, princess Irulan pledged to marry Paul in exchange for her father's life. She cares for her family but has learned of the sinister hands that guide the world's rotation during her Bene Gesserit training. She seeks to shine a light into the madness by documenting what happens when people think no one is watching.
 
 ### Na'barron Glossu Rabban
+![Glossu Rabban](/imgs/glossu.jpg)
+
 Glossu Rabban is the nephew to Barron Harkonnen, recently resurrected by the Bene Tleilax. After, living in his brother's shadow Glossu looks to seize a higher power.
 
 ### Na'barron Feyd-Rautha - Voting Member (House Harkonnen)
+![Feyd-Rautha](/imgs/feyd-rautha.avif)
+
 After losing his duel to Paul, Fey-Rautha was ressurected by the Bene Tleilax. He now focuses his cruelty on surpssing what his uncle could never do, his sights are set on the golden lion throne.
 
 ### Count Hasimir Fenring 
-Advisor and assassin for Shaddam IV, Hasimir Fenring attempted to kill Paul years ago. Was Paul's recent murder Hasimir's redemption?
+![Hasimir Fenring](/imgs/hasimir.webp)
+
+Advisor and assassin for Shaddam IV, Hasimir Fenring attempted to kill Paul years ago. Was Paul's recent murder Hasimir's redemption? Hasimir has been away from his house in pursuit of gaining Shadam IV's favor, leaving operations of House Fenring to Lady Margot.
 
 ### Lady Margot Fenring - Voting Member (House Fenring)
-Wife of Hasimir Fenring and manager of House Fenring in Hasimir's absence. Lady Margot looks to ensure House Fenring is secured for generations to come.
+![Lady Margot Fenring](/imgs/margot.avif)
+
+Wife of Hasimir Fenring, manager of House Fenring in Hasimir's absence, and Bene Gesserit initiate. Lady Margot looks to ensure House Fenring is secured for generations to come.
 
 ### Mentat Duncan Idaho II - Voting Member (House Ginaz)
+![Duncan Idaho](/imgs/duncan.avif)
+
 The original Duncan Idaho, was military tactician and swordsmaster who served Duke Leto Atreides with unwavering loyalty to his death. Duncan Idaho II, however is a facsimile created by the Bene Tleilax, using Duncan Idaho's corpse recovered by the Sardakar on Arrakis. He represents, House Ginaz but struggles with residual memories of his previous life.
 
 ### Lady Jessica
+![Lady Jessica](/imgs/jessica.webp)
+
 Jessica is a highly trained member of the Bene Gesserit sisterhood, possessing abilities such as heightened intuition, control over her own physiology, and limited precognition. She undergoes rigorous mental and physical conditioning as part of her training. Despite her official role as a concubine rather than a wife, Jessica deeply loves her son, Paul Atreides. Jessica faces internal conflicts between her loyalty to the Bene Gesserit sisterhood and her love for her family. 
 
 ### Gaius Helen Mohaiam   
+![Gaius Helen Mohaiam](/imgs/gaius.jpg)
+
 A Bene Gesserit Reverend Mother, similar to Lady Jessica, that has been mentoring Princess Irulan and advising Shaddam IV since before Jessica was born. She has set clear public boundaries that Lady Jessica's choice to have a son would bring about the destruction of everyone. She seeks to craft the Kwisatz Haderach, and was unsurprised that Paul was a false positive.
 
-### Guild Navigator Edric
-A spacing guild navigator specializing in the regulation of House Corrino transactions.
+### Guild Navigator Edree
+![Guild Navigator Edree](/imgs/guild_nav_2.jpg)
+
+A spacing guild navigator specializing in the regulation of House Corrino transactions. This character does not appear directly in the Dune movie or books and their public information is a mystery. 
 
 ### Guild Navigator Rapham
-A spacing guild navigator specializing in the regulation of House Atreides transactions.
+![Guild Navigator Rapham](/imgs/guild_nav_1.jpg)
+
+A spacing guild navigator specializing in the regulation of House Atreides transactions. This character does not appear directly in the Dune movie or books and their public information is a mystery. 
 
 ## Known Factions
 
@@ -134,7 +162,7 @@ The Bene Gesserit Order is an organization of all female spies, nuns, theologian
 
 They are trained to maximize mental and physical human potential, leading them to have incredibly sharp senses and become capable of making computer-like calculations in their heads. The Bene Gesserit training makes its members something close to evolutional superiors among the human race. They are capable of controlling their body chemistry and consciously affecting processes in the body that most people have no control over. The Bene Gesserit are led by the Reverend Mother Superior, who has supreme control over the order, and their headquarters are on the planet of Wallach IX.
 
-Lady Jessica and Gaius Helen Mohaiam are the present members of the Bene Gesserit. Princess Irulan Corrino is a Bene Gesserit inititate.
+Lady Jessica and Gaius Helen Mohaiam are the present members of the Bene Gesserit. Lady Margot Fenring is a Bene Gesserit inititate.
 
 ### Landsraad Houses Minor
 #### House Harkonnen
