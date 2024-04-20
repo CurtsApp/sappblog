@@ -37,24 +37,24 @@ You may also exchange **influence** for favors and actions that do not include t
 
 After chatting with Chani, Shaddam IV learns that one of Chani's goals is to ensure that Princess Irulan ends the night destitute. Though Shaddam can not take Princess Irulan's **influence** away directly, he offers to lend Chani a battalion of Sardaukar in exchange for a shipment of Spice. Chani agrees to exchange one of her spice **influence** tokens for two of Shaddam IV's House Corrino **influence** tokens. Shaddam IV thinks this is a good deal because he knows Guild Navigator Edric is gathering as much spice as possible and Shaddam IV plans to bribe Edric to decrease cost of House Corrino actions. Chani thinks this is a good deal because her *secret* character information tells her that if she ends the night with more House Corrino **influence** than Princess Irulan then Chani can have Princess Irulan exiled.
 
-To help keep the immersive roleplay it is best to negotiation **influence** transactions using in universe objects that your character would reasonably have access to. In this instance, Shaddam IV and Chani were bartering battalions of Sardukar and Spice even though the transaction is mechanically represented using **influence** tokens. Have fun with what your items/service you are offering while trying to keep them realistic to things your character has access to. Your *secret* character information will have some suggested bartering items.
+To help keep the immersive roleplay it is best to negotiation **influence** transactions using in universe objects that your character would reasonably have access to. In this instance, Shaddam IV and Chani were bartering battalions of Sardukar and Spice even though the transaction is mechanically represented using **influence** tokens. Have fun with what your items/service you are offering while trying to keep them realistic to things your character has access to.
 {{< /hint >}}
 
 ### Types of Influence tokens
-There are 4 types of influence tokens
-
-- House Atreides - green
-- House Corrino - red
-- Minor House - blue
-- Spice - yellow
+| Influence | Color | Represents |
+| -------- | -------- | -------- |
+| House Atreides   | Green   | Fremen warriors, access to spice fields, control of water on Arakkis   |
+| House Corrino  | Red  | Sardukar squads, Solari ( Money )  |
+| Minor House  | Blue  | Trade agreements with unrepresented minor houses, influencing new laws for a house you represent to be favorable for a specific person  |
+| Spice  | Yellow  | A shipment of spice, the location of a secret spice cache, an off world vault of spice  |
 
 ### Influence Actions
 At any time throughout the coronation influence may be given to the game master to trigger an event to happen.  Some characters have unique events they can trigger that are specified in their *secret* details. Every character my use their influence to perform the following actions:
 
 - Destroy the Spice fields with the Atreides family atomics: Expend 9 Atreides **influence** then remove all Spice tokens from the game regardless of who owns them. No more Spice may be created.
-- Sardukar extortion: Expend 2 Corrino **influence** then steal 1 influence from another character, that character gains 1 House Corrino influence.
-- Initiate a Sardaukar coop: Expend 8 Corrino **influence**  then steal every Corrion **influence** from a member of House Corrino.
-- Reveal location the of a Shai-Hulud breeding pit: Expend 3 Atreides **influence** then everyone, except 3 characters of your choice, gain 1 Spice. The maximum number of Spice must be distributed, you may select yourself.
+- Sardukar extortion: Expend 3 Corrino **influence** then steal 2 influence from another character, that character gains 1 House Corrino influence.
+- Initiate a Sardaukar coop: Expend 9 Corrino **influence** then steal every Corrino **influence** from another character.
+- Reveal the location of a Shai-Hulud breeding pit: Expend 3 Atreides **influence** then everyone, except 3 characters of your choice, gain 1 Spice. The maximum number of Spice must be distributed, you may select yourself.
 - Leverage the Spice: Exchange 2 Spice for 1 of any other type of **influence**.
 - Create a minor house coalition: Expend 3 Minor House **influence**, gain a vote for the new Padisha emperor. The coalition is with an unlisted minor house, you will select their vote during the final election, though you may purchase the coalition before voting time if you are concerned about holding onto the raw **influence**.
 {{< hint info >}}
@@ -73,22 +73,22 @@ Paul is not a playable character but Paul's ghost will be played by your game ma
 ### Executor Chani
 ![Chani](/imgs/chani.avif)
 
-Before Paul, Chani was a fierce Freman warrior and hunter. With Paul, she learned to have a softer touch. She is still all of those things, but now Chani has seen the corruption that follows the greed of man. Chani leads a sect of Freman who wish to embrace the old isolationist ways and leave the spacemen to slit each other's throats.
+Before Paul, Chani was a fierce Fremen warrior and hunter. With Paul, she learned to have a softer touch. She is still all of those things, but now Chani has seen the corruption that follows the greed of man. Chani leads a sect of Fremen who wish to embrace the old isolationist ways and leave the spacemen to slit each other's throats.
 
 ### Naib Stilgar
 ![Naib Stilgar](/imgs/stilgar.jpg)
 
-Once a humble leader of a northern Freman tribe, Stilgar found himself tangled in Paul's ascension to Lisan al-Gaib, serving as his mentor. Stilgar would have traded his life for Paul's if given the opportunity but instead Stilagar is left to enact Paul's vision. The vision of an interconnection Freman, a people who have joined the intergalactic court as a people to be respected.
+Once a humble leader of a northern Fremen tribe, Stilgar found himself tangled in Paul's ascension to Lisan al-Gaib, serving as his mentor. Stilgar would have traded his life for Paul's if given the opportunity but instead Stilagar is left to enact Paul's vision. The vision of an interconnected Fremen, a people who have joined the intergalactic court as a people to be respected.
 
 ### Emperor Shaddam Corrino IV - Voting Member (House Corrino)
 ![Shaddam Corrino IV](/imgs/shadam.avif)
 
-Shaddam IV decided that under Duke Leto's leadership House Atreides was becoming too powerful, enough to threaten the House Corriono claim of the golden lion throne. Shaddam IV's actions caused the instability of Arrakis and set in motion all of the events of Dune and him losing his throne even sooner. The recently deposed Padisha emperor narrowly held onto his life by bending the knee to Paul and Princess Irulan agreeing to marry Paul. As head of the Corrino house Shaddam IV commands fierce Sardaukar. 
+Shaddam IV decided that under Duke Leto's leadership House Atreides was becoming too powerful, enough to threaten the House Corrino claim of the golden lion throne. Shaddam IV caused the instability of Arrakis and set in motion all of the events of Dune and the eventual loss of his own throne. The recently deposed Padisha emperor narrowly held onto his life by bending the knee to Paul and Princess Irulan agreeing to marry Paul. As head of the Corrino house Shaddam IV commands the fierce Sardaukar.
 
-### Princess Irulan Corrino, the chronicler
+### Princess Irulan Corrino
 ![Princess Irulan](/imgs/irulan.avif)
 
-Daughter of Shaddam IV, princess Irulan pledged to marry Paul in exchange for her father's life. She cares for her family but has learned of the sinister hands that guide the world's rotation during her Bene Gesserit training. She seeks to shine a light into the madness by documenting what happens when people think no one is watching.
+Daughter of Shaddam IV, princess Irulan pledged to marry Paul in exchange for her father's life. Paul’s rise to power has enlighted her to the sinister hands that guide the world's true rotation, the Bene Gesserit.
 
 ### Na'barron Glossu Rabban
 ![Glossu Rabban](/imgs/glossu.jpg)
@@ -138,14 +138,14 @@ A spacing guild navigator specializing in the regulation of House Atreides trans
 ## Known Factions
 
 ### House Atreides
-House Atreides was originally given control of Arrakis, to oversee Spice extraction by emperor Shaddam IV. This operation was lead by Leto Atreides until his death at the hands of Harkonnen incursion. The Atreides were assumed to be a dead bloodline until Paul returned as Paul, Muad'Dib Atreides, Lisan al-Gaib to the Freman people as the self selected new Padishah emperor. The core of Paul's claim to the Padishah throne is through his threat to destroy the Spice fields using the Atreides family atomics, without Spice the entire empire would collapse as the Spacing Guild navigators would no longer be able to pilot via ships through space at faster than light speeds.
+House Atreides was originally given control of Arrakis, to oversee Spice extraction by emperor Shaddam IV. This operation was lead by Leto Atreides until his death at the hands of Harkonnen incursion. The Atreides were assumed to be a dead bloodline until Paul returned as Paul, Muad'Dib Atreides, Lisan al-Gaib to the Fremen people as the self selected new Padishah emperor. The core of Paul's claim to the Padishah throne is through his threat to destroy the Spice fields using the Atreides family atomics, without Spice the entire empire would collapse as the Spacing Guild navigators would no longer be able to pilot via ships through space at faster than light speeds.
 
 Paul Atreides and Lady Jessica are the remaining members of House Atreides.
 
 ### Fremen
 The Fremen are the native inhabitants of Arrakis, their cultural identity is derived from their fight for survival in the brutal deserts of Arrakis. They are known to ride Shai-Hulud, the sandworms, take water conservation seriously, and care for the preservation of Spice for use during everyday life.
 
-Chani and Stilgar are notable surviving Freman, however millions of Freman live throughout Arrakis, it is not a specific bloodline of people.
+Chani and Stilgar are notable surviving Fremen, however millions of Fremen live throughout Arrakis, it is not a specific bloodline of people.
 
 ### Spacing Guild
 The Spacing Guild, also known as the Guild of Navigators is one leg of the political tripod maintaining the Great Convention, along with the Bene Gesserit Sisterhood, and the Landsraad. The guild has a monopoly on space travel and international banking. Their navigators use Spice for safe and accurate interstellar navigation.
@@ -166,7 +166,7 @@ Lady Jessica and Gaius Helen Mohaiam are the present members of the Bene Gesseri
 
 ### Landsraad Houses Minor
 #### House Harkonnen
-Led by the curel Baron Vladimir Harkonnen, supplemented by his nephews Glossu Rabban and heir Fey-Rautha. The Harkonnen homeworld Giedi Prime is an industrial wasteland. The Harkonnens hold power through the vast wealth generated by depleting their planet's natural resources. After conspiring with Shaddam IV to replace House Atreides in overseeing the extraction of Spice on Arrakis, the Baron and his nephews were killed by Paul after his return as the Lisan al-Gaib to the Freman people. Fortunately for the Harkonnen family house as long as one member of their bloodline remains their Phoenix protocol was able to revive some of them.
+Led by the curel Baron Vladimir Harkonnen, supplemented by his nephews Glossu Rabban and heir Fey-Rautha. The Harkonnen homeworld Giedi Prime is an industrial wasteland. The Harkonnens hold power through the vast wealth generated by depleting their planet's natural resources. After conspiring with Shaddam IV to replace House Atreides in overseeing the extraction of Spice on Arrakis, the Baron and his nephews were killed by Paul after his return as the Lisan al-Gaib to the Fremen people. Fortunately for the Harkonnen family house as long as one member of their bloodline remains their Phoenix protocol was able to revive some of them.
 
 A ressurected Glossu Rabban and Fey-Rautha will be attending the coronation, in addition to Paul, Paul's <a href="https://neoencyclopedia.fandom.com/wiki/House_Harkonnen#Harkonnen_family_tree">grandfather was Baron Vladimir Harkonnen, Lady Jessica's father.</a>
 
