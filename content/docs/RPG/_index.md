@@ -1,11 +1,11 @@
 ---
-title: RPG Intro
+title: RPG
 type: docs
 bookCollapseSection: true
 weight: 10
 ---
 
-# RPG
+# RPG Intro
 
-A collection of RPG content I've found useful. (empty)
+A collection of RPG content I've found useful or written.
 

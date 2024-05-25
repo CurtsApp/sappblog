@@ -13,5 +13,4 @@ Welcome to Curt's collection, a wiki of content too good to keep to myself. My g
 
 Catch up on updates to the collection, most recent changes are at the top.
 
-- Added [Dune Part 3]({{< relref "dune_pt_3" >}})
 - Added [Kombucha brewing recipe]({{< relref "my_recipe_here" >}}) 

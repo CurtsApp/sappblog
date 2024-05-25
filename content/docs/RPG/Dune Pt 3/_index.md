@@ -1,5 +1,6 @@
 ---
 title: "Dune Part 3 - Regicide"
+type: docs
 weight: 1
 # bookFlatSection: false
 # bookToc: true
