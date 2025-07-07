@@ -6,6 +6,19 @@ weight: 200
 # Video Games
 Video games, no matter the genre or platform.
 
+## Peak - June 2025
+
+## Outer Wilds - June 2025
+
+## Hades - May 2025
+Very fun, great voice acting single player roguelite game.
+
+## Turnip boy commits tax evasion - April 2024
+
+## Ravenswatch - April 2024
+
+## REPO - April 2024
+
 ## Marvel Rivals - Feb 2025
 A fun hero shooter with classic comic book characters. It's a fun game, especially with friends. Reminds me of Overwatch.
 

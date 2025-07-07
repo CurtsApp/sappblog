@@ -24,10 +24,10 @@ Opera that I'm not certain what it was about. Something todo with an escaped pri
 
 ## Sungazer, Denver 
 
-## She slays dragons 2024
+## She slays dragons - 2024
 Saw this with Jordan and Julie at Mesa Community College
 
-## Be more chill
+## Be more chill - 2024
 Mesa Community College performing arts center
 
 ## Hunchback of Notre Dome 2023
