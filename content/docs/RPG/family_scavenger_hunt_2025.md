@@ -30,7 +30,7 @@ Consent should be given before taking photos of people, please don't take photos
 - Any number of people who's ages add up to 100
 - Any number of people who's ages add up to 250
 - Someone who is less than half your age
-- Someone who is more than half your age
+- Someone who is more than twice your age
 - Someone has the same hobby as you (What is your hobby?)
 - Someone who has played the same sport as you (What is the sport?)
 - Someone who has the same favorite food as you (What is the food?)
@@ -75,7 +75,7 @@ Consent should be given before taking photos of people, please don't take photos
 - Someone who has eaten a vegetable they grew themselves
 - Someone who was a gymnast or cheerleader (What group did they train with?)
 - Someone who is excellent BBQ chef
-- Someone who makes homemade pasta
+- Someone who has made homemade pasta
 - Someone who has made homemade pizza
 - Someone who brews their own fermented food or drink
 - Someone who is an artist
