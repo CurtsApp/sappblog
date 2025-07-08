@@ -63,14 +63,16 @@ Consent should be given before taking photos of people, please don't take photos
 - Someone who played in a band (What kind of band was it?)
 - Someone who has played at least 10 different video games this year (What was their favorite?)
 - Someone who brought a food or snack for everyone to share (Make sure to thank them!)
-- Someone who has made homemade pizza
 - Someone who is an author on a published research paper
-- Someone who is an author on a published written media, social media doesn't count
+- Someone who is an author on a published written media
 - Someone who has eaten a vegetable they grew themselves
 - Someone who was a gymnast or cheerleader (What group did they train with?)
-- Someone who is a keeper of flame, master of the BBQ
+- Someone who is excellent BBQ chef
+- Someone who makes homemade pasta
+- Someone who has made homemade pizza
+- Someone who brews their own fermented food or drink
 - Someone who is an artist
-- Someone who is a good dancer
+- Someone who is a dancer
 - Someone you hope to see again before the next reunion
 
 
